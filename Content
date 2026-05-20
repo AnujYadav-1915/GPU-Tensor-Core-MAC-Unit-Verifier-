@@ -1,0 +1,5 @@
+ormal Verification of a RISC-V Microprocessor | Live | SystemVerilog, SVA, JasperGold
+• Formulated a comprehensive test plan encompassing 50+ temporal logic assertions to verify instruction decoding,
+ALU execution, and register file consistency for a 5-stage RV32I core.
+• Applied bounded model checking using advanced abstraction techniques to prove deadlock-freedom and liveness
+properties, eliminating 3 pipeline stall hazards and boosting IPC by 12%
