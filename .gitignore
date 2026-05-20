@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+
+# Cadence JasperGold / Conformal
+jgproject/
+*.log
+*.cmd
+*.jcd
+detailed_assertions.rpt
+formal_results.rpt
+
+# Synopsys VC Formal / VCS
+csrc/
+simv*
+daidir/
+vc_formal/
+.vc_formal/
+*.rpt
+
+# General simulation/waveform logs
+*.vcd
+*.fsdb
+*.wlf
+work/
